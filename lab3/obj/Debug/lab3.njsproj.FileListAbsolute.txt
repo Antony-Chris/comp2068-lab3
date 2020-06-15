@@ -1,0 +1,3 @@
+C:\Users\chris\OneDrive\Desktop\github\comp2068-lab3\lab3\obj\Debug\lab3.njsprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\github\comp2068-lab3\lab3\obj\Debug\lab3.njsproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\github\comp2068-lab3\lab3\bin\Microsoft.NodejsTools.WebRole.dll
